@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap5-template
-description: "a basic bootstrap 5 template for Jekyll with GitHub Pages"
-year: 2021
-author: evan will 
+title: Static Web
+description: "Testing ground and playfield."
+year: 2022
+author: Will Simpson 
 # add search box to navbar, true/false
 search: true
 
